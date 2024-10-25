@@ -112,11 +112,28 @@ button {
   text-align: center;
 }
 
-/* "Sub: the landing page skeleton
+.quote-section {
+  height: 400px;
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
 
-Body:add the html/css and the img files
-"  */
+.quote {
+  padding: 36px;
+  color: #1f2937;
+  font-size: 36px;
+  font-style: italic;
+}
 
+h3 {
+  margin: 16px;
+  margin-right: 100px;
+  align-self: last baseline;
+  font-size: 28px;
+}
 footer {
   font-size: 18px;
 }
