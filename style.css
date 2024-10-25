@@ -81,6 +81,42 @@ button {
   height: 300px;
 }
 
+.info {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  text-align: center;
+  margin: 32px;
+  align-content: center;
+}
+
+.card-section {
+  height: 400px;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+}
+
+.game-img {
+  height: 200px;
+  width: 170px;
+  border-radius: 10px;
+}
+.game-info {
+  margin-top: 4px;
+  font-size: 16px;
+  text-align: center;
+}
+
+/* "Sub: the landing page skeleton
+
+Body:add the html/css and the img files
+"  */
+
 footer {
   font-size: 18px;
 }
